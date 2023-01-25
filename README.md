@@ -2,5 +2,5 @@
 Name: Manasa Rayachoti
 mailid: manasa.r.2811@gmail.com
 
-instructions:
-Download the python notebook and run all the cells after importing json.
+Instructions:
+Download the python notebook in the same directory as the json file and run all the cells after importing json.
